@@ -1,0 +1,1076 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Press+Start+2P&family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa+One:ital@1&family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Changa+One:ital@1&family=Fredericka+the+Great&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Changa+One:ital@1&family=Fredericka+the+Great&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Changa+One:ital@1&family=Faster+One&family=Fredericka+the+Great&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Changa+One:ital@1&family=Faster+One&family=Fredericka+the+Great&family=Nosifer&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Cedarville+Cursive&family=Changa+One:ital@1&family=Faster+One&family=Fredericka+the+Great&family=Nosifer&family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Cedarville+Cursive&family=Changa+One:ital@1&family=Faster+One&family=Fredericka+the+Great&family=Nosifer&family=Sevillana&family=Zeyada&display=swap');
+
+.imagepluto{
+
+    display: inline-block;
+}
+.imagepluto img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+    filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+    top: 800px; 
+    left: 100px; 
+}
+
+.imagepluto:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imageminie{
+
+    display: inline-block;
+}
+.imageminie img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+	filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+}
+
+.imageminie:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagedingo{
+
+    display: inline-block;
+}
+.imagedingo img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+	filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+    top: 400px; 
+    left: 1200px; 
+}
+
+.imagedingo:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagedonald{
+
+    display: inline-block;
+}
+.imagedonald img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+	filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+    top: 1000px; 
+    left: 1250px; 
+}
+
+.imagedonald:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagedaisy{
+
+    display: inline-block;
+}
+.imagedaisy img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+	filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+    top: 1400px; 
+    left: 250px; 
+}
+
+.imagedaisy:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagenala{
+
+    display: inline-block;
+   
+}
+.imagenala img{
+
+    width: 150px;
+    height: 100px;
+    z-index: 0;
+    position: absolute;
+    top: 650px; 
+    left: 100px; 
+    position: fixed;
+}
+
+.imagepalmier{
+
+    display: inline-block;
+   
+}
+.imagepalmier img{
+
+    transition: opacity 1s ease-in-out;
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 550px; 
+    left: 50px; 
+    position: fixed;
+   
+}
+
+.imagepalmier:hover img{
+    opacity:0;
+}
+
+.imagemufasa{
+
+    display: inline-block;
+   
+}
+.imagemufasa img{
+
+    width: 150px;
+    height: 100px;
+    z-index: 0;
+    position: absolute;
+    top: 0px; 
+    left: 1350px; 
+    position: fixed;
+}
+
+.imagepalmier2{
+
+    display: inline-block;
+   
+}
+.imagepalmier2 img{
+
+    transition: opacity 1s ease-in-out;
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 0px; 
+    left: 1300px; 
+    position: fixed;
+   
+}
+
+.imagepalmier2:hover img{
+    opacity:0;
+}
+
+.imagetimon{
+
+    display: inline-block;
+   
+}
+.imagetimon img{
+
+    width: 150px;
+    height: 100px;
+    z-index: 0;
+    position: absolute;
+    top: 70px; 
+    left: 60px; 
+    position: fixed;
+}
+
+.imagepalmier3{
+
+    display: inline-block;
+   
+}
+.imagepalmier3 img{
+
+    transition: opacity 1s ease-in-out;
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 0px; 
+    left: 0px; 
+    position: fixed;
+   
+}
+
+.imagepalmier3:hover img{
+    opacity:0;
+}
+
+.imagepumba{
+
+    display: inline-block;
+   
+}
+.imagepumba img{
+
+    width: 150px;
+    height: 100px;
+    z-index: 0;
+    position: absolute;
+    top: 620px; 
+    left: 1350px; 
+    position: fixed;
+}
+
+.imagepalmier4{
+
+    display: inline-block;
+   
+}
+.imagepalmier4 img{
+
+    transition: opacity 1s ease-in-out;
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 600px; 
+    left: 1300px; 
+    position: fixed;
+   
+}
+
+.imagepalmier4:hover img{
+    opacity:0;
+}
+
+.imagesully{
+
+    display: inline-block;
+    z-index: 0; 
+   
+}
+
+.imagesully img{
+
+  
+    width: 15px;
+    height: 10px;
+    z-index: 0;
+    position: absolute;
+    top: 650px; 
+    left: 1200px; 
+    position: fixed; 
+    opacity: 1; 
+    
+}
+
+.imagesully:hover{
+
+    display: inline-block;
+    z-index: 0; 
+}
+
+.imagesully:hover img{
+
+  
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 500px; 
+    left: 1200px; 
+    position: fixed;
+    opacity: 1; 
+    
+}
+
+.imagerandall{
+
+    display: inline-block;
+   
+}
+
+.imagerandall img{
+
+  
+    width: 15px;
+    height: 10px;
+    z-index: 0;
+    position: absolute;
+    top: 200px; 
+    left: 300px; 
+    position: fixed;
+    
+}
+
+.imagerandall:hover{
+
+    display: inline-block;
+}
+
+.imagerandall:hover img{
+
+  
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 200px; 
+    left: 250px; 
+    position: fixed;
+    
+}
+
+.imagebouh{
+
+    display: inline-block;
+   
+}
+
+.imagebouh img{
+
+  
+    width: 15px;
+    height: 10px;
+    z-index: 0;
+    position: absolute;
+    top: 200px; 
+    left: 1300px; 
+    position: fixed;
+    
+}
+
+.imagebouh:hover{
+
+    display: inline-block;
+}
+
+.imagebouh:hover img{
+
+  
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 200px; 
+    left: 1200px; 
+    position: fixed;
+    
+}
+
+.imagegrand{
+
+    display: inline-block;
+}
+.imagegrand img{
+
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 300px; 
+    left: 100px; 
+    position: fixed;
+}
+
+.imagelilo{
+
+    display: inline-block;
+}
+.imagelilo img{
+
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 70px; 
+    left: 1200px; 
+    position: fixed;
+}
+
+.imagenani{
+
+    display: inline-block;
+}
+.imagenani img{
+
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 550px; 
+    left: 1200px; 
+    position: fixed;
+}
+
+.imagebuzz{
+
+    display: inline-block;
+}
+.imagebuzz img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+    filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+    top: 800px; 
+    left: 100px; 
+}
+
+.imagebuzz:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagerex{
+
+    display: inline-block;
+}
+.imagerex img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+	filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+}
+
+.imagerex:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagejessie{
+
+    display: inline-block;
+}
+.imagejessie img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+	filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+    top: 1300px; 
+    left: 1200px; 
+}
+
+.imagejessie:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagealien{
+
+    display: inline-block;
+}
+.imagealien img{
+
+    width: 250px;
+    height: 200px;
+    -webkit-filter: blur(20px);
+	filter: blur(20px);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    z-index: 0;
+    position: absolute;
+    top: 100px; 
+    left: 1200px; 
+}
+
+.imagealien:hover img {
+	-webkit-filter: blur(0);
+	filter: blur(0);
+}
+
+.imagewoody{
+
+    display: inline-block;
+}
+.imagewoody img{
+
+    width: 250px;
+    height: 275px;
+    z-index: 0;
+    position: absolute;
+    top: 300px; 
+    left: 100px; 
+    position: fixed;
+}
+
+.imagealien1{
+
+    display: inline-block;
+}
+.imagealien1 img{
+
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 500px; 
+    left: 1200px; 
+    position: fixed;
+}
+
+.imageapatate{
+
+    display: inline-block;
+}
+.imagepatate img{
+
+    width: 250px;
+    height: 200px;
+    z-index: 0;
+    position: absolute;
+    top: 100px; 
+    left: 1200px; 
+    position: fixed;
+}
+
+.imagetigrou{
+
+    display: inline-block;
+   
+}
+.imagetigrou img{
+
+    width: 150px;
+    height: 100px;
+    z-index: 0;
+    position: absolute;
+    top: 600px; 
+    left: 0px; 
+    position: fixed;
+}
+
+.imagef1{
+
+    display: inline-block;
+   
+}
+.imagef1 img{
+
+    transition: opacity 1s ease-in-out;
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 550px; 
+    left: 0px; 
+    position: fixed;
+   
+}
+
+.imagef1:hover img{
+    opacity:0;
+}
+
+.imagebouriquet{
+
+    display: inline-block;
+   
+}
+.imagebouriquet img{
+
+    width: 150px;
+    height: 100px;
+    z-index: 0;
+    position: absolute;
+    top: 100px; 
+    left: 1200px; 
+    position: fixed;
+}
+
+.imagef2{
+
+    display: inline-block;
+   
+}
+.imagef2 img{
+
+    transition: opacity 1s ease-in-out;
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 50px; 
+    left: 1200px; 
+    position: fixed;
+   
+}
+
+.imagef2:hover img{
+    opacity:0;
+}
+
+.imageporcinet{
+
+    display: inline-block;
+   
+}
+.imageporcinet img{
+
+    width: 150px;
+    height: 100px;
+    z-index: 0;
+    position: absolute;
+    top: 550px; 
+    left: 1300px; 
+    position: fixed;
+}
+
+.imagef3{
+
+    display: inline-block;
+   
+}
+.imagef3 img{
+
+    transition: opacity 1s ease-in-out;
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 500px; 
+    left: 1300px; 
+    position: fixed;
+   
+}
+
+.imagef3:hover img{
+    opacity:0;
+}
+
+.imageolaf{
+
+    display: inline-block;
+   
+}
+
+.imageolaf img{
+
+  
+    width: 20px;
+    height: 15px;
+    z-index: 1;
+    position: absolute;
+    top: 650px; 
+    left: 1300px; 
+    position: fixed;
+    
+}
+
+.imageolaf:hover{
+
+    display: inline-block;
+}
+
+.imageolaf:hover img{
+
+  
+    width: 250px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 500px; 
+    left: 1200px; 
+    position: fixed;
+    
+}
+
+.imageanna{
+
+    display: inline-block;
+   
+}
+
+.imageanna img{
+
+  
+    width: 20px;
+    height: 15px;
+    z-index: 1;
+    position: absolute;
+    top: 100px; 
+    left: 200px; 
+    position: fixed;
+    
+}
+
+.imageanna:hover{
+
+    display: inline-block;
+}
+
+.imageanna:hover img{
+
+  
+    width: 200px;
+    height: 200px;
+    z-index: 1;
+    position: absolute;
+    top: 100px; 
+    left: 200px; 
+    position: fixed;
+    
+}
+
+.tout{
+
+    background-image: url("images/disney.png");
+    background-attachment: fixed;
+}
+
+.tout1{
+
+    background-image: url("images/jungle.jpg");
+    background-attachment: fixed;
+    font-family: 'Caesar Dressing', cursive;
+    font-size: 12px;
+}
+
+.tout2{
+
+    background-image: url("images/ciel.jpg");
+    background-attachment: fixed;
+    font-family: 'Sevillana', cursive;
+}
+
+.tout3{
+
+    background-image: url("images/monstreetcie.jpg");
+    background-attachment: fixed;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Rubik Beastly', cursive;
+}
+
+.tout4{
+
+    background-image: url("images/plage.jpg");
+    background-attachment: fixed;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 12px;
+}
+
+.tout5{
+
+    background-image: url("images/farwest.jpg");
+    background-attachment: fixed;
+    font-family: 'Faster One', cursive;
+}
+
+.tout6{
+
+    background-image: url("images/espace.jpg");
+    background-attachment: fixed;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+}
+
+.tout7{
+
+    background-image: url("images/nature.jpg");
+    background-attachment: fixed;
+    font-family: 'Nosifer', cursive;
+    font-size: 11px;
+
+}
+
+.tout8{
+
+    background-image: url("images/neige.jpg");
+    background-attachment: fixed;
+    font-family: 'Changa One', cursive;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.tout10{
+
+    background-image: url("images/ciel.jpg");
+}
+
+.titre{
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.boutonmenuprincipal {
+    background: linear-gradient(rgb(255, 0, 140), rgb(46, 3, 240));
+    color: black;
+    border: none;
+    cursor: pointer;
+    padding:20px;
+    margin-top:70px;
+    margin-left: 1500px;
+    font-size: 15px;
+}
+
+.boutonmenuprincipal:hover {
+    background: linear-gradient(rgb(255, 0, 140), rgb(46, 3, 240));
+ }
+
+.dropdown {
+    position:absolute;
+    display: inline-block;
+ }
+
+ .dropdown-child {
+    display: none;
+    background: linear-gradient(rgb(46, 3, 240), rgb(255, 0, 140));
+    min-width: 10px;
+    margin-left: 1500px;
+ }
+
+.dropdown-child a {
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    display: block;
+ }
+
+.dropdown:hover .dropdown-child {
+    display: block;
+}
+
+.contenu{
+
+    background: linear-gradient(rgb(255, 0, 140), rgb(46, 3, 240));
+    height: 700px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.9;
+    font-size: 25px;
+}
+
+#link{
+     color: #000000; 
+}
+
+.simba
+{
+    background: linear-gradient(rgb(248, 172, 7), rgb(77, 45, 4));
+    height: 850px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.9;
+}
+
+
+.formulairesimba
+{
+    background: linear-gradient(rgb(77, 45, 4), rgb(248, 172, 7));
+    height: 850px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.9;
+}
+
+.mickey
+{
+    background: linear-gradient(rgb(255, 0, 157), rgb(36, 33, 202));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.formulairemickey
+{
+    background: linear-gradient(rgb(36, 33, 202), rgb(255, 0, 157));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.bob{
+
+    background: linear-gradient(rgb(21, 218, 70), rgb(136, 255, 0));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.formulairebob{
+
+    background: linear-gradient(rgb(136, 255, 0), rgb(21, 218, 70));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.stitch{
+
+    background: linear-gradient(rgb(0, 204, 255), rgb(0, 68, 255));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+
+.formulairestitch{
+
+    background: linear-gradient(rgb(0, 68, 255), rgb(0, 204, 255));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.woody{
+
+    background: linear-gradient(rgb(88, 47, 0), rgb(255, 196, 0));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.formulairewoody{
+
+    background: linear-gradient(rgb(255, 196, 0), rgb(88, 47, 0));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.buzz{
+
+    background: linear-gradient(rgb(69, 173, 0), rgb(87, 27, 122));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.formulairebuzz{
+
+    background: linear-gradient(rgb(87, 27, 122), rgb(69, 173, 0));
+    height: 830px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.winnie{
+
+    background: linear-gradient(rgb(255, 230, 1), rgb(255, 8, 0));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.formulairewinnie{
+
+    background: linear-gradient(rgb(255, 8, 0), rgb(255, 230, 1));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.elsa{
+
+    background: linear-gradient(rgb(1, 183, 255), rgb(25, 0, 255));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.formulaireelsa{
+
+    background: linear-gradient(rgb(25, 0, 255), rgb(1, 183, 255));
+    height: 800px;
+    width: 500px;
+    text-align: center; 
+    margin: auto; 
+    border-radius: 20px; 
+    opacity: 0.8;
+}
+
+.lien img{
+
+    width: 400px;
+    height: 400px;
+}
